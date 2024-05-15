@@ -1,6 +1,6 @@
 #imba-dbmonster
 
-implement db-monster benchmark in imba
+implement db-monster benchmark in imba. reference implementation on https://github.com/rich-harris/dom-monster
 
 ![info](info.webp)
 
