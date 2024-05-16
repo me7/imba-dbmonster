@@ -3,7 +3,7 @@ export default {
 	client: {
 		// Any vite config can be put in client object in order to configure the bundling.
 		// It will be merged with the default config bundled with imba
-		base: '/imba-dbmonster/',
+		//base: '/imba-dbmonster/',
 		plugins: [], // same for plugins
 	},
 	// server: {}
